@@ -1,0 +1,72 @@
+body {
+    background-color: gray;
+    background-size: cover;
+}
+
+.head {
+    color: blue;
+    font-weight: bold;
+    text-align: center;
+}
+.button-page {
+    background-color: black;
+    color: white;
+    border: 20px;
+    height: 30px;
+    width: 100px;
+    border-radius: 20px;
+    opacity: 0.9;
+    font-weight: bold;
+    object-fit: fill;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px blue;
+
+.button-page:hover {
+    background-color: white;
+}
+.button-page {
+    background-color: white;
+}
+
+}
+.img4 {
+    width: 30%;
+    height: 300px;
+    display: inline-block;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    object-fit: fill;
+    margin-right: 25px;
+    vertical-align: top;
+    
+ 
+}
+.img5 {
+    width: 30%;
+    height: 300px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 2%;
+}
+.search-bar {
+    border: 4px;
+    border-radius: 4px;
+    width: 150px;
+    align-items: center;
+    border-color: black ;
+    padding: 2px;
+    align-self: center;
+
+
+
+}
+.img3 {
+    width: 30%;
+    height: 300px;
+    vertical-align: top;
+    margin-top: 2%;
+    margin-left: 25px;
+}
+
+
+
